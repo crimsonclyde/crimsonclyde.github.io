@@ -4,7 +4,7 @@ title: Transporter: AT-AT (TEMPLATE)
 ---
 
 **Codename: StarWars Char/Thing<br/><br/>**
-Preis: Keine Angabe<br/>
+Neupreis: Keine Angabe<br/>
 Zustand: Gebraucht, super<br/>
 
 #### Abmessung
