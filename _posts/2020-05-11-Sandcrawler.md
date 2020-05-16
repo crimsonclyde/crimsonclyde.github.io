@@ -15,10 +15,7 @@ Breite | 80
 Tiefe | 30
 Höhe | 83
 
-
-
-
-Anmerkung: Weiss lackiert, Ausschnitt für Kabelzuführung; Rückseite
+*Anmerkung:* Weiss lackiert, Ausschnitt für Kabelzuführung; Rückseite
 
 *Preis Ikea neu: 59€*\
 [Link zu Ikea](https://www.ikea.com/de/de/p/ivar-schrank-kiefer-40033763/ )
