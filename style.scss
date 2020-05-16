@@ -303,10 +303,23 @@ table {
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
 
-
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+/*
+* Messages
+*
+* Show alert messages to users. You may add it to single elements like a `<p>`,
+* or to a parent if there are multiple elements to show.
+*/
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
