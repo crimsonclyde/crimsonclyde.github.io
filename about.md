@@ -1,15 +1,41 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hic Sunt Imperialis
 ---
 
-Some information about you!
+<p class="message">
+  Manche haben es schon gehört. Es steht ein Umzug an. MaryGold wird ihren aktuelle Heimat "Neu Pripyat" verlassen und in die Outer Rim Terretories umziehen. <b>Und alle so yeah!</b>
+  Die neue Heimat der allseits bekannte Mos Eisley Raumhafen in den Outer Rim Teretorries von MUC.
+  <br/><br/>
 
-### More Information
+  <i>Nirgendwo wirst du mehr Abschaum und Verkommenheit versammelt finden als hier.</i>
+  <br/><br/>
 
-A place to include any other types of information that you'd like to include about yourself.
+  Leider, leider müssen wir zwei Haushalte mergen, daher wollen/müssen/sollten wir uns von ein paar Dingen trennen. Es ist nur bedingt Platz und wegschmeissen finden wir sche***e. Über alles was nicht in den Müll wandern muss sind wir dankbar. Dieser temporäre Blog soll euch schnell einen Überblick verschaffen ohne dröfzig Links anzuklicken.
+  <br/><br/>
 
-### Contact me
+  Was nicht in kurzer Zeit weggeht, landet auch noch auf Ebay-Kleinanzeigen, seit also schnell.
+</p>
 
-[email@domain.com](mailto:email@domain.com)
+
+
+**Was muss ich tun?**\
+Simpel, jedes Stück hat einen Codenamen. Gebt diesen an und sendet eine email and GoldLeader@darkpack.net, bitte mit Namen. Gerne euer Nickname, solange bekannt. Alles weitere wird dann organisiert.
+
+**Weitere Infos**\
+Soweit nötig und zeitig möglich werden wir Maße zu den jeweiligen Stücken erfassen. Bei Kleinteilen, Deko oder so jedoch nicht. Notfalls fragt in der Mail an falls ihr noch Maße braucht.
+
+**Preise**\
+Erst mal bitte nicht wundern, die stehen da, damit wir es auf Ebay Universe irgendwann verticken können. Letzte Preis, you know!. Daher betrifft euch dies erst mal natürlich nicht, liebe Mit-Imperianer.
+
+Ich denke bei ein paar Sachen ist es verständlich das wir die nicht nur verschenken können. Sollten wir kurzfristig noch zu Geld kommen, schenken wir alles her. Die Wahrscheinlichkeit ist jedoch gering. Noch geringer, wenn man nicht mal Lotto spielt. Wir werden uns schon einig.
+
+**The Physics of the Page**\
+Proudly present with Jekyll (GitHub Pages) https://pages.github.com/ \
+Theme: Lanyon https://github.com/poole/lanyon
+
+---
+
+What's left to say? Well: May the force be with you, always!
+
+#### MaryGold & CrimsonClyde
