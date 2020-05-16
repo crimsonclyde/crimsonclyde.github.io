@@ -20,7 +20,7 @@ title: Hic Sunt Imperialis
 
 
 **Was muss ich tun?**\
-Simpel, jedes Stück hat einen Codenamen. Gebt diesen an und sendet eine Email and [Email:CrimsonGold], bitte mit Namen. Gerne euer Nickname, solange bekannt. Alles weitere wird dann organisiert.
+Simpel, jedes Stück hat einen Codenamen. Gebt diesen an und sendet eine Email and [CrimsonGold](mailto:crimsongold@darkpack.net?subject=[Mos Eisley]%20Anfrage%20Codename:%20 INSERT), bitte mit Namen. Gerne euer Nickname, solange bekannt. Alles weitere wird dann organisiert.
 
 **Weitere Infos**\
 Soweit nötig und zeitig möglich werden wir Maße zu den jeweiligen Stücken erfassen. Bei Kleinteilen, Deko oder so jedoch nicht. Notfalls fragt in der Mail an falls ihr noch Maße braucht.
