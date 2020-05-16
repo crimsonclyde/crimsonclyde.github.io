@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transporter: AT-AT (TEMPLATE)
+title: Transporter - AT-AT (TEMPLATE)
 ---
 
 **Codename: StarWars Char/Thing<br/><br/>**
