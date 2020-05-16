@@ -18,7 +18,7 @@ Sitzbreit | 56
 Sitztiefe | 50
 Sitzhöhe | 42
 
-*Preis Ikea neu: 119€*\
+*Preis Ikea neu: 119€*  
 [Link zu Ikea (neuere Version)](https://www.ikea.com/de/de/p/poaeng-sessel-birkenfurnier-robust-glose-eierschalenfarben-s19830588/)
 
 ![Poaeng Chair Front](/pix/StormTrooper_01.jpeg)
