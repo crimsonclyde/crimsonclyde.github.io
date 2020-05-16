@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Schrank: Ikea Ivar (White Painted)"
-date:   2020-05-11 23:58:00 +0200
-categories: Force
-
+title: Schrank: Ikea Ivar (White Painted)
 ---
 
-**Codename: Sandcrawler**
-Preis: Keine Angabe
-Zustand: Gebraucht, super  
+**Codename: Sandcrawler**<br/>
+Preis: Keine Angabe<br/>
+Zustand: Gebraucht, super<br/>
 
 #### Abmessung
 
