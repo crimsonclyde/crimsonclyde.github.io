@@ -13,6 +13,3 @@ Ausgestattet mit zwei Gläsern, Besteck, Tellern, Schüsseln, Schneidbrett, Kork
 *Letzte Preis: 10€*
 
 ![Space Waffle Front](/pix/Space_Waffle_001.jpg)
-![Space Waffle Top](/pix/Space_Waffle_002.jpg)
-![Space Waffle Open Front](/pix/Space_Waffle_003.jpg)
-![Space Waffle Open Top](/pix/Space_Waffle_004.jpg)
