@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Stuhl: Ikea Poäng (Black Edition)"
-date:   2020-05-11 23:57:00 +0200
-categories: Force
-
+title:  Stuhl: Ikea Poäng (Black Edition)
 ---
-  **Codename: Star Trooper (Bundle)\
-  Preis: Keine Angabe\
-  Zustand: Gebraucht, supers**
 
----
+**Codename: Star Trooper (Bundle)**<br/><br/>
+Preis: Keine Angabe<br/>
+Zustand: Gebraucht, super<br/>
 
 #### Abmessung
 
@@ -22,14 +18,12 @@ Sitzbreit | 56
 Sitztiefe | 50
 Sitzhöhe | 42
 
-
 *Preis Ikea neu: 119€*\
 [Link zu Ikea (neuere Version)](https://www.ikea.com/de/de/p/poaeng-sessel-birkenfurnier-robust-glose-eierschalenfarben-s19830588/)
 
 ![Poaeng Chair Front](/pix/StormTrooper_01.jpeg)
 ![Poaeng Chair Back](/pix/StormTrooper_02.jpeg)
 
----
 ## Hocker: Ikea Poäng (Black Edition)
 
 ### Abmessung
@@ -47,5 +41,3 @@ Sitzhöhe | 38
 [Link zu Ikea (neuere Version)](https://www.ikea.com/de/de/p/poaeng-hocker-schwarzbraun-lysed-grau-s09251452/)
 
 ![Poaeng hocker](/pix/StormTrooper_03.jpeg)
-
----
