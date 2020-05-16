@@ -8,12 +8,17 @@ Preis: Keine Angabe<br/>
 Zustand: Gebraucht, super<br/>
 
 
-Codename: Sandcrawler  
+Codename: Sandcrawler
 Preis: Keine Angabe
 Zustand: Gebraucht, super
 
 
 #### Abmessung
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 Dimension | Centimeter
 ------------ | -------------
