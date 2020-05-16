@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Transporter: AT-AT (TEMPLATE PAGE) "
-date:   1948-12-04 23:23:42 +0200
-categories: Force
-
+title: Transporter: AT-AT (TEMPLATE)
 ---
-  **Codename: StarWars Char/Thing\
-  Preis: Keine Angabe\
-  Zustand: Gebraucht, super**
 
----
+**Codename: StarWars Char/Thing<br/><br/>**
+Preis: Keine Angabe<br/>
+Zustand: Gebraucht, super<br/>
 
 #### Abmessung
 
@@ -27,5 +23,3 @@ Höhe | 22500
 ![Codename Side](/pix/AT-AT_02.jpeg)
 ![Codename Front](/pix/AT-AT_01.jpeg)
 ![Codename Back](/pix/AT-AT_03.png)
-
----
