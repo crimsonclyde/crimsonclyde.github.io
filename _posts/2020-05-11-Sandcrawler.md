@@ -5,10 +5,10 @@ date:   2020-05-11 23:58:00 +0200
 categories: Force
 
 ---
+
 **Codename: Sandcrawler**
-**Preis: Keine Angabe**
-**Zustand: Gebraucht, super**
----
+Preis: Keine Angabe
+Zustand: Gebraucht, super
 
 #### Abmessung
 
