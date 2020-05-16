@@ -3,28 +3,20 @@ layout: post
 title: Schrank: Ikea Ivar (White Painted)
 ---
 
-**Codename: Sandcrawler**<br/>
+**Codename: Sandcrawler**<br/><br/>
 Preis: Keine Angabe<br/>
 Zustand: Gebraucht, super<br/>
 
-
-Codename: Sandcrawler
-Preis: Keine Angabe
-Zustand: Gebraucht, super
-
-
 #### Abmessung
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 Dimension | Centimeter
 ------------ | -------------
 Breite | 80
 Tiefe | 30
 Höhe | 83
+
+
+
 
 Anmerkung: Weiss lackiert, Ausschnitt für Kabelzuführung; Rückseite
 
@@ -34,5 +26,3 @@ Anmerkung: Weiss lackiert, Ausschnitt für Kabelzuführung; Rückseite
 ![Sandcrawler Front](/pix/Sandcrawler_01.jpeg)
 ![Sandcrawler Side](/pix/Sandcrawler_02.jpeg)
 ![Sandcrawler Back](/pix/Sandcrawler_03.jpeg)
-
----
