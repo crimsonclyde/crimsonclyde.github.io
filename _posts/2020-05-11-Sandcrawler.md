@@ -8,7 +8,7 @@ categories: Force
 
 **Codename: Sandcrawler**
 Preis: Keine Angabe
-Zustand: Gebraucht, super
+Zustand: Gebraucht, super  
 
 #### Abmessung
 
