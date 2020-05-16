@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: All Posts
 ---
 
 <div class="posts">
