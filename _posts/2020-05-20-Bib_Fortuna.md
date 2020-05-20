@@ -3,7 +3,7 @@ layout: post
 title: Kram - Lampe Weihnachtsstern
 ---
 
-**Codename: StarWars Char/Thing<br/><br/>**
+**Codename: Bib Fortuna<br/><br/>**
 Neupreis: Unbekannt<br/>
 Zustand: Gebraucht, gut<br/>
 
