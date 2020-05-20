@@ -17,7 +17,7 @@ Höhe | 22500
 
 *Anmerkung:* Imperiale Standardausführung, Klima und Heckscheibenwischer
 
-*Letzte Preis: 6,50€*\
+*Letzte Preis: 6,50€*  
 [Link](https://jedipedia.fandom.com/wiki/Allterrain-Angriffstransporter )
 
 ![Codename Side](/pix/AT-AT_02.jpeg)
