@@ -11,5 +11,5 @@ Zustand: Gebraucht, vollständig<br/>
 
 *Letzte Preis: Ein freundliches Lächeln :-)*
 
-![Jabba the Hut Front](/pix/Jabba_the_Hut_001.jpg)
+![Jabba the Hut Front](/pix/Jabba_the_hut_001.jpg)
 ![Jabba the Hut Innen](/pix/Jabba_the_Hut_002.jpg)
