@@ -26,6 +26,6 @@ HDD: Normal ohne, würde eine SSD empfehlen zu kaufen.<br/><br/>
 *Letzte Preis: Günstig, evtl. Spende wäre nett.*
 [Specifications](https://www.lapstore.de/a.php/shop/lapstore/lang/en/a/13949/kw/Lenovo-ThinkPad-T500-2087-A23 )
 
-![Codename Side](/pix/Palpatine_01.jpeg)
-![Codename Front](/pix/Palpatine_02.jpeg)
-![Codename Back](/pix/Palpatine_03.png)
+![Codename Side](/pix/Palpatine_01.jpg)
+![Codename Front](/pix/Palpatine_02.jpg)
+![Codename Back](/pix/Palpatine_03.jpg)
