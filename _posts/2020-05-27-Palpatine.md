@@ -5,7 +5,7 @@ title: Laptop - Lenovo T500 (+Port Replicator)
 
 **Codename: Palpatine<br/><br/>**
 Neupreis: 1500,00€<br/>
-Typ: 2087-A23
+Typ: 2087-A23<br/>
 Zustand: Gebraucht<br/>
 
 #### Abmessung
