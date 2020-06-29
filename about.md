@@ -10,9 +10,9 @@ title: Hic Sunt Imperialis
   Sorry folks, all gone.
 </p>
 
-**The Physics of the Page**\
-Proudly present with Jekyll (GitHub Pages) https://pages.github.com/ \
-Fork: https://github.com/barryclark/jekyll-now
+**The physics of this page**<br/><br/>
+Proudly present with Jekyll (GitHub Pages) https://pages.github.com/ <br/>
+Fork: https://github.com/barryclark/jekyll-now<br/><br/>
 
 ---
 
