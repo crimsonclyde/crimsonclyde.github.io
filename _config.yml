@@ -26,7 +26,8 @@ description: >- # used by seo meta and the atom feed
   Stuff I build, thoughts I have and various other interests
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://crimsonclyde.github.io/"
+#url: "https://crimsonclyde.github.io/"
+url: "https://clyde.crimson.space/"
 
 github:
   username: CrimsonClyde # change to your github username
