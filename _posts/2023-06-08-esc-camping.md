@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ESC - Camping"
+categories: ESC
 ---
 
 Some days off was really a thing. Perfect weather conditions, some rain here and there, not that bad. Was great to see some old chaps again. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Thermometer, Vorpal Knife, FatesEnd"
+categories: I♥Craft
 ---
 
 

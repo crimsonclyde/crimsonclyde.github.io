@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Proxmox: Kernel panic"
+categories: I♥Tech
 ---
 
 We all know this, well not all, but some of us and it makes IT fun. Not!\

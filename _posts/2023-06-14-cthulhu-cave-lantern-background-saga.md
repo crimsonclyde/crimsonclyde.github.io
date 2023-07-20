@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Cthulhu Cave Lantern - A background saga"
+categories: I♥Craft
 ---
 
  There is a redesign of a entire wall in my room in progress.\

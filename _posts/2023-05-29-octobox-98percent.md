@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Caddy Octobox 98%"
+categories: I♥Craft
 ---
 
 The Caddy Octobox 98% done.\

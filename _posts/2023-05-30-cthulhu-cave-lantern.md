@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Cthulhu Cave Lantern"
+categories: I♥Craft
 ---
 
 Follow up for: [Cthulhu Cave Lantern](https://clyde.crimson.space/posts/20230527/)

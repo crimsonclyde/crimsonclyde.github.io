@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: VW Caddy - OctoBox Black Works"
+categories: I♥Craft
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Call of Cthulhu"
+categories: I♥Craft
 ---
 
 A normal evening in ÖggÖgg.\

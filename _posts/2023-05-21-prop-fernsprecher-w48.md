@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Prop Fernsprechapparat W 48"
+categories: I♥Craft
 ---
 
 According to Wikipedia the W48 for "Wahlfernsprecher 1948" this is the first post World War II desktop telephone line developed in the mid 30ies by Siemens & Halske for German telephone and postal administration, later Deutsche Post. It was developed until 1961 and it is still produced until today in small quantities using the originial mold.

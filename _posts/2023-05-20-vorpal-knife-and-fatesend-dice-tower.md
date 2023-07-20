@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Vorpal Knife / FatesEnd Dice Tower"
+categories: I♥Craft
 ---
 
 

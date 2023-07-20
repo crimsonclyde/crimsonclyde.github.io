@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Bone Candle Holder"
+categories: I♥Craft
 ---
 
 Just another bone candle holder from the Harry Potter universe.\

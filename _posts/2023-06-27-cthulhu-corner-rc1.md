@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Cthulhu Corner - RC1"
+categories: I♥Craft
 ---
 
 Redesign of the Lovecraft / Cthulhu Mythos shrine, calling it - Cthulhu Corner.  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Cthulhu Corner - RC2"
+categories: I♥Craft
 ---
 
 Release candidate 2 of my Cthulhu Corner.  

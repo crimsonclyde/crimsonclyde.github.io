@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ansible: Portainer Update"
+categories: I♥Tech
 ---
 
 Basic script to upgrade Portainer on your Docker host.

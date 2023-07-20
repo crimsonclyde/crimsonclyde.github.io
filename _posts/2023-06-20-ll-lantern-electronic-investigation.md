@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: LL Lantern - Electronics Investigation"
+categories: I♥Craft
 ---
 
 ##### Related posts  

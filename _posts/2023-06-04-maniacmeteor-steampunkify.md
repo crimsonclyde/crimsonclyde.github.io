@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: ManiacMeteor - Steampunkify"
+categories: I♥Craft
 ---
 
 Printed a few gears used some shower hose to hide more cables.\

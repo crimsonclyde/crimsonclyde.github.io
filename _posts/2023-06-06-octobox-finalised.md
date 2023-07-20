@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: OctoBox - finalised"
+categories: I♥Craft
 ---
 
 Finally the OctoBoxes for MaryGolds VW Caddy are ready.

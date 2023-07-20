@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: ManiacMeteor - Steampunkify - finalised"
+categories: I♥Craft
 ---
 
 Project ManiacMeteor Steampunkify is done.\

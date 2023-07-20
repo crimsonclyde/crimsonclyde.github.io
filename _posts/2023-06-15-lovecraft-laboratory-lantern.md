@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Lovecraft Laboratory Lantern"
+categories: I♥Craft
 ---
 
 Fka. Cthulhu Cave Lantern project:

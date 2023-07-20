@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Caddy OctoBox Lock"
+categories: I♥Craft
 ---
 
 Adding yacht locks to MaryGolds Caddy OctoBoxes.\

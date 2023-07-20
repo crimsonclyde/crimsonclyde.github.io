@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Cthulhu Cave Lantern"
+categories: I♥Craft
 ---
 
 

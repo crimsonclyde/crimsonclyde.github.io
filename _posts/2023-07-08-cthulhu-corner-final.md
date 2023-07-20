@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: Cthulhu Corner - Final"
+categories: I♥Craft
 ---
 
 The last remaining piece arrived. The map of Arkham.  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: New prop - Teaser"
+categories: I♥Craft
 ---
 
 || 

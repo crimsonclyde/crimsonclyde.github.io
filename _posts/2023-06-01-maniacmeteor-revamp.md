@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Craft: ManiacMeteor - Revamp"
+
 ---
 
 It has been a while since I had the ManiacMeteor project here in my blog.\
