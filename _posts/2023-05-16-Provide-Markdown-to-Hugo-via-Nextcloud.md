@@ -7,7 +7,7 @@ Brief info how to use Nextcloud as base and serve the Markdown documents to Hugo
 
 ## SSHFS
 
-Install SSHFS on the docker host.
+Install SSHFS on the docker host!
 
 ```
 sudo apt install sshfs 
