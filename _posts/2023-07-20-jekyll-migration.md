@@ -5,7 +5,10 @@ title: "I♥Tech: Site migrated to Github Pages and from Hugo to Jekyll"
 
 Since Hugo was somehow limited and I was sick taking care of it, I moved my site to GitHub Pages. These are already public documents more or less, so it doesn't matter where the files are located. For everyone interested, this is a pretty straight forward process.
 
-I used Chirpy as theme. Since it uses search and has a dark/white theme built in.
+
+## Theme
+I have choosen "Chirpy" as theme for Jekyll.
+The features are exactly what I want. Search, black/white theme, archive. Perfect.
 
 ## Roadmap
 
