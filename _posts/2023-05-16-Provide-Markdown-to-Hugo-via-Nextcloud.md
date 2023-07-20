@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Provide Markdown to Hugo via Nextcloud"
+categories: I♥Tech
 ---
 
 Brief info how to use Nextcloud as base and serve the Markdown documents to Hugo via Docker.
