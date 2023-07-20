@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "I♥Craft: VW Caddy - OctoBox Black Works"
-date: 2023-05-26
-draft: false
 ---
+
 
 The idea and basic CAD design I made a year ago. Maybe more.
 Some iterations later, the Octoboxes getting their final touches. I would suggest to get harder wood than we did. We decided to use plywood - but this has downsites, scratches and dents since the wood has a soft top layer. Basically, we are happy happy - we decided to not do it once again, to save ressources. It works, we tested both boxes already in Sardina successfully.\

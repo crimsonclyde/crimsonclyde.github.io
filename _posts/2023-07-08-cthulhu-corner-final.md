@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Cthulhu Corner - Final"
-date: 2023-07-08
-draft: false
 ---
 
 The last remaining piece arrived. The map of Arkham.  

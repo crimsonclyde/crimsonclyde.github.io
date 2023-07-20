@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Call of Cthulhu"
-date: 2023-06-02
-draft: false
 ---
 
 A normal evening in ÖggÖgg.\

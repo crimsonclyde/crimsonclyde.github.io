@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Bone Candle Holder"
-date: 2023-05-25
-draft: false
 ---
 
 Just another bone candle holder from the Harry Potter universe.\

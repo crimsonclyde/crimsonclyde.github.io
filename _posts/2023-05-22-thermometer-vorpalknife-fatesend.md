@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Thermometer, Vorpal Knife, FatesEnd"
-date: 2023-05-22
-draft: false
 ---
 
 

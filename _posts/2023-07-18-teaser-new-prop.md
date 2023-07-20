@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: New prop - Teaser"
-date: 2023-07-18
-draft: false
 ---
 
 || 

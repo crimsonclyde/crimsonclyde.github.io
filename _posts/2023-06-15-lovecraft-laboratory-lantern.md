@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Lovecraft Laboratory Lantern"
-date: 2023-06-15
-draft: false
 ---
 
 Fka. Cthulhu Cave Lantern project:

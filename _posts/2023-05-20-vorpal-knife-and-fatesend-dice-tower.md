@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Vorpal Knife / FatesEnd Dice Tower"
-date: 2023-05-20
-draft: false
 ---
 
 

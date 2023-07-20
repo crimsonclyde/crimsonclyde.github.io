@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: ManiacMeteor - Steampunkify"
-date: 2023-06-04
-draft: false
 ---
 
 Printed a few gears used some shower hose to hide more cables.\

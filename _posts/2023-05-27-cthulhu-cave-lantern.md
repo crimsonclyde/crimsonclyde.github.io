@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "I♥Craft: Cthulhu Cave Lantern"
-date: 2023-05-27
-draft: false
 ---
+
 
 New Project HP Lovecrafts Cthulhu Cave Lantern.\
 5 bucks from a excavator of the former German Democratic Republic.

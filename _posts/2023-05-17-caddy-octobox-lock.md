@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Caddy OctoBox Lock"
-date: 2023-05-17
-draft: false
 ---
 
 Adding yacht locks to MaryGolds Caddy OctoBoxes.\

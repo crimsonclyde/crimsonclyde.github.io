@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Cthulhu Cave Lantern"
-date: 2023-05-30
-draft: false
 ---
 
 Follow up for: [Cthulhu Cave Lantern](https://clyde.crimson.space/posts/20230527/)

@@ -1,8 +1,7 @@
 ---
+layout: post
 title: "Ansible: Portainer Update"
-date: 2023-05-18
-draft: false
---- 
+---
 
 Basic script to upgrade Portainer on your Docker host.
 

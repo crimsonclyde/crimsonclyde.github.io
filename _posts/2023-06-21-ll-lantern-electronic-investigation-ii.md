@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: LL Lantern - Electronics Investigation II"
-date: 2023-06-21
-draft: false
 ---
 
 ##### Related posts  

@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Caddy Octobox 98%"
-date: 2023-05-29
-draft: false
 ---
 
 The Caddy Octobox 98% done.\

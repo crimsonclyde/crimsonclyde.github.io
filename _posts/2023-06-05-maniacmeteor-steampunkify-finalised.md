@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: ManiacMeteor - Steampunkify - finalised"
-date: 2023-06-05
-draft: false
 ---
 
 Project ManiacMeteor Steampunkify is done.\

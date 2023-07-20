@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Cthulhu Corner - RC1"
-date: 2023-06-27
-draft: false
 ---
 
 Redesign of the Lovecraft / Cthulhu Mythos shrine, calling it - Cthulhu Corner.  

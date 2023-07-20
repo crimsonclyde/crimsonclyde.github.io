@@ -1,9 +1,7 @@
 ---
+layout: post
 title: "Proxmox: Kernel panic"
-date: 2023-05-19
-draft: false
 ---
-
 
 We all know this, well not all, but some of us and it makes IT fun. Not!\
 You just run a quick update on your hypervisor and after a reboot - nothing.\

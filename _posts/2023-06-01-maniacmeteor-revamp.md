@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: ManiacMeteor - Revamp"
-date: 2023-06-01
-draft: false
 ---
 
 It has been a while since I had the ManiacMeteor project here in my blog.\

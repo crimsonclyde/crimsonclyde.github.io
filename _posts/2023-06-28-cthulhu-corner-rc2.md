@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: Cthulhu Corner - RC2"
-date: 2023-06-28
-draft: false
 ---
 
 Release candidate 2 of my Cthulhu Corner.  

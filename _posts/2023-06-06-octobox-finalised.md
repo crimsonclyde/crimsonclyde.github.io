@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "I♥Craft: OctoBox - finalised"
-date: 2023-06-06
-draft: false
 ---
 
 Finally the OctoBoxes for MaryGolds VW Caddy are ready.

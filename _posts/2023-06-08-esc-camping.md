@@ -1,7 +1,6 @@
 ---
+layout: post
 title: "ESC - Camping"
-date: 2023-06-08
-draft: false
 ---
 
 Some days off was really a thing. Perfect weather conditions, some rain here and there, not that bad. Was great to see some old chaps again. 
