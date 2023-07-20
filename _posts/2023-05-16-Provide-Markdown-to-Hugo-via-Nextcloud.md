@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Provide Markdown to Hugo via Nextcloud"
-date: 2023-05-16
-draft: false
+date:   2023-07-20 15:30:00 +0100
+categories: markdown, nextcloud, hugo
 ---
 
 Brief info how to use Nextcloud as base and serve the Markdown documents to Hugo via Docker.
