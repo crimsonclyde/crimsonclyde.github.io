@@ -16,5 +16,5 @@ There might be other copies out. Most of them are lost in time and space. Only o
 
 The Necronomicon famous and mysterious. Bound in human flesh and written in blood.
 
-![Necronomicon RC1](/assets/pix/HPL_Necronomicon_RC1.jpg)
+![Necronomicon RC1](/assets/pix/HPL_Necronomicon_RC1.jpeg)
 
