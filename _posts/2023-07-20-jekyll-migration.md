@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I♥Tech: Site migrated to Github Pages and from Hugo to Jekyll"
+categories: I♥Tech
 ---
 
 Since Hugo was somehow limited and I was sick taking care of it, I moved my site to GitHub Pages. These are already public documents more or less, so it doesn't matter where the files are located. For everyone interested, this is a pretty straight forward process.
