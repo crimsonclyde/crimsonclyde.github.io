@@ -4,13 +4,13 @@ title: "I♥Tech: New Workstation"
 categories: I♥Tech
 ---
 
-# Worksation
+# Cthulhu 
 
 Behold nightmares of evil - raw power against brute forces of hell.  
-Lilith behold!
+Lilith behold! I got myself finally a new machine!
 
 For those interested, these are the specs and the prices for a decent workstation currently:
- 
+
 | Item| Number | Price|
 |---|---|---|
 | be quiet! PURE BASE 500DX Window, Tower-Gehäuse schwarz, Window-Kit | 1596912 | 87,90€ |
@@ -24,9 +24,9 @@ For those interested, these are the specs and the prices for a decent workstatio
 
 ![Cthulhu](/assets/pix/Wkst_Cthulhu.JPG)
 
-*Pro Tip:*
-If your setup a Windows 11 nowaday I would highly recommend to use `winget` aka App Installer.    
-If not already available on your system use the link below. 
+*Pro Tip:*  
+If your setup a Windows 11 nowaday I would highly recommend to use `winget` aka App Installer.  
+If not already available on your system use the link below.  
 
 [App Installer](https://apps.microsoft.com/store/detail/appinstaller/9NBLGGH4NNS1)
 
