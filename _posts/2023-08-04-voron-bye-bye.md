@@ -22,6 +22,6 @@ I replaced all parts of the Beta Stealthburner to the final version and with the
 upgraded to HartK's Stealthburner Toolhead which is a lot cleaner than the old connectors.
 
 I'm saying goodbye to you  
-Say goodbye, bye bye love!
+Say goodbye, bye bye love.
 
 ![Voron](/assets/pix/Voron.JPG)
