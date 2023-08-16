@@ -12,4 +12,7 @@ Big shoutout to Jamyra El Khaleel (aka. MaryGold) for the wonderful artwork. Bas
 ![Voron](/assets/pix/Necronomicon-inlay_01.JPG)
 
 
-Cthulhu fhtaghn - Cakal and al Chakroun شكرون
+Cthulhu fhtaghn - Chakal abd al Chakroun شكرون
+
+Previous:  
+[Necronomicon RC1](https://clyde.crimson.space/posts/Necronomicon/)
