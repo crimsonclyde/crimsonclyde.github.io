@@ -12,4 +12,4 @@ Big shoutout to Jamyra El Khaleel (aka. MaryGold) for the wonderful artwork. Bas
 ![Voron](/assets/pix/Necronomicon-inlay_01.JPG)
 
 
-Yours - Cakal and al Chakroun شكرون
+Cthulhu fhtaghn - Cakal and al Chakroun شكرون
