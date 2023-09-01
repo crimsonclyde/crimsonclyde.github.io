@@ -11,6 +11,6 @@ Bricks - that's all about it, bits of iron bars and an angle grinder and off you
 So, wish us luck - friday test - saturday production!
 I will do a lead test just to be double safe.
 
-![Voron](/assets/pix/PizzaOven_1.JPG)  
-![Voron](/assets/pix/PizzaOven_2.JPG)  
-![Voron](/assets/pix/PizzaOven_3.JPG)
+![Pizza oven 1](/assets/pix/PizzaOven_1.JPG)  
+![Pizza oven 2](/assets/pix/PizzaOven_2.JPG)  
+![Pizza oven 3](/assets/pix/PizzaOven_3.JPG)
