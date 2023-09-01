@@ -16,7 +16,7 @@ Taste was great and I mysteriously managed it to not lose one pizza.
 Have fun. Cheers
 
 <<<<<<< HEAD
-![Pizza oven in action](/assets/pix/PizzaOven_4.JPG)  
+![Pizza oven in action](/assets/pix/PizzaOven_4.jpg)  
 ![Pizza oven action shot II](/assets/pix/PizzaOven_5.JPG)
 =======
 ![Voron](/assets/pix/PizzaOven_4.JPG)  
