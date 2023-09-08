@@ -33,16 +33,16 @@ This is now our experimental setup for the experiment. The left side is just our
 
 Perfect! Now let's interfere the light beam from our laser pointer.
 
-![Split with hair](/assets/pix/DSE_WaveLight01.JPG)
+![Split with hair](/assets/pix/DSE_LightWave01.JPG)
 
 Whaaaaaat?
 I mean really? What happen's here? There is something obviously wrong here. Let's introduce fog, maybe the light beam is split up and that's the reason why this happens, right.
 
-![Split with a hair - with fog](/assets/pix/DSE_WaveLight02_fog.JPG)
+![Split with a hair - with fog](/assets/pix/DSE_LightWave_02_fog.JPG)
 
 more?
 
-![Split with a hair - with fog](/assets/pix/DSE_WaveLight03_fog.JPG)
+![Split with a hair - with fog](/assets/pix/DSE_LightWave_03_fog.JPG)
 
 Seriously? What happens here?
 
