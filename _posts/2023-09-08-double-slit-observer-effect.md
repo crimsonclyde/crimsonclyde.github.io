@@ -46,7 +46,7 @@ Confused about what's happening?
 
 You've seen the unexpected results, but that's just the beginning. Why might our reality be a simulation? Forget the laser beam for a moment. Imagine it's a gun firing particles, like electrons.
 
-![Double-Slit Wikipedia](/assets/pix/DSE_Explained.JPG)
+![Double-Slit Wikipedia](/assets/pix/DSE_Explained.png)
 
 We'll fire electrons one at a time, so they don't interfere with each other. You'd expect to see a pattern on the screen reflecting the two slits, right? The answer is both yes and no, surprisingly.
 
