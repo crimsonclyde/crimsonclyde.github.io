@@ -6,10 +6,10 @@ categories: I♥Tech
 
 ## Exordium
 
-Jellyfin is basically a Netflix/AmzonPrime/Disney a-like user interface for use of your own DVD/Blueray backups. Therefore
-According to [Wikipedia](https://en.wikipedia.org/wiki/Jellyfin)
->Jellyfin is a free and open-source media server and suite of multimedia applications designed to organize, manage, and share digital media files to networked devices. Jellyfin consists of a server application installed on a machine running Microsoft Windows, macOS, Linux or in a Docker container, and another application running on a client device such as a smartphone, tablet, smart TV, streaming media player, game console or in a web browser
+What is Jellyfin? Basically you can speak of a media server which looks like a lot of the once you are already used to. You know, the UIs from the big players. So it is time to clean up your backup copies (consider using TinyMediaManager) and fire up the good stuff and feel like it is 2K23. We don't want to live like caveman anymore!
 
+[Wikipedia](https://en.wikipedia.org/wiki/Jellyfin):
+>Jellyfin is a free and open-source media server and suite of multimedia applications designed to organize, manage, and share digital media files to networked devices. Jellyfin consists of a server application installed on a machine running Microsoft Windows, macOS, Linux or in a Docker container, and another application running on a client device such as a smartphone, tablet, smart TV, streaming media player, game console or in a web browser
 
 ![Jellyfin](/assets/pix/Jellyfin_Synology.png)
 
@@ -76,4 +76,4 @@ Try on your host:
 sudo chmod 777 /dev/dri/*
 ```
 
-I didn't fully get the problem, but it seems to be that Synology has some restrictions, which you don't face if you run docker on a standard linux system.
+I didn't fully get the problem, but it seems to be that Synology has some restrictions, which you don't face if you run docker on a standard linux system. Check out this discussion on [Github](https://github.com/linuxserver/docker-jellyfin/issues/26#issuecomment-864370273).
