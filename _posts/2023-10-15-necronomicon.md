@@ -30,7 +30,7 @@ Cthulhu fataghn.
 
 May I present the ultimate edition of the Necronomicon!
 
-![Neconomicon Pages](/assets/pix/Neconomicon_03.JPG)
-![Neconomicon Inside 1](/assets/pix/Neconomicon_00.JPG)
-![Neconomicon Inside 2](/assets/pix/Neconomicon_01.JPG)
-![Neconomicon Outside](/assets/pix/Neconomicon_02.JPG)
+![Neconomicon Pages](/assets/pix/Necronomicon_03.JPG)
+![Neconomicon Inside 1](/assets/pix/Necronomicon_00.JPG)
+![Neconomicon Inside 2](/assets/pix/Necronomicon_01.JPG)
+![Neconomicon Outside](/assets/pix/Necronomicon_02.JPG)
