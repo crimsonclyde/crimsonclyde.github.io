@@ -16,7 +16,7 @@ Test ok'ish (things to improve) and speaking of famous last words.
 ![Anubis](/assets/pix/Lightbox_Ghostbusters.JPG)  
 ![Anubis](/assets/pix/Lightbox_Halloween.JPG) 
 ![Anubis](/assets/pix/Lightbox_boo.JPG)
-![Anubis](/assets/pix/Lightbox_StarTrek.JPG)
+![Anubis](/assets/pix/Lightbox_StarTrek.jpg)
 
 These are only a few of them. I bought 10 ESP8266 modules - and had some leftovers. Well, down to one or two now. And don't ask 7 meters of WS2812b lightstrips. There is more, I never thought that I will ever run out of micro USB cables - well ... I do.  
 
