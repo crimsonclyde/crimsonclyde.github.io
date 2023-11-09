@@ -13,7 +13,6 @@ Worth spending some time their, models getting better each year. So why not fire
 
 Test ok'ish (things to improve) and speaking of famous last words:
 
-![Anubis](/assets/pix/Lightbox_Ghostbusters.JPG)  
 ![Anubis](/assets/pix/Lightbox_Halloween.JPG)  
 ![Anubis](/assets/pix/Lightbox_boo.JPG)  
 ![Anubis](/assets/pix/Lightbox_StarTrek.jpg)
