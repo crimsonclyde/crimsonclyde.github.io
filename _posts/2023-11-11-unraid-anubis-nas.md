@@ -21,23 +21,26 @@ Great, but what happens if a disk fails? As more disks you have, as more likely 
 
 Parity drive magic!
 
-The most simplified way to explain what is going on.  
-This is a digital world, so it consists of zeros and ones.  
-Which means a state can be even or odd nothing else.  
+In the digital world of computers, data is represented using only two states: zero (0) and one (1). This binary system is the foundation of how computers process and store information.
 
-DISK1: 0  
-DISK2: 1  
-DISK3: 1  
-DISK4: 1
+In an Unraid system, which is a type of computer storage setup, there's a concept called a "parity disk." This is a special disk used to protect against data loss. To understand how it works, let's consider a simplified example with four disks:
 
-State is odd, right, three times one is three and three is an odd number.  
-Therefore the parity drive holds a 1 for odd.  
-Let's assume DISK2 fails. The state flips to even contrary to our parity drive, which gives us odd.  
-Now we add a new disk and all and thus we know it has to be odd a 1 is written to the drive.
+    DISK1: 0
+    DISK2: 1
+    DISK3: 1
+    DISK4: 1
 
-Wait! Hold on. One 1 and all fine?  
-Nope, simplified, as I said, all the sectors will be saved to the parity drive, so scale it up to the entire drive, and voilá, you can survive ONE disk failure.  
-There's more to it, but for the sake of simplification - that's fine for now. 
+We determine the overall state of these disks as either "even" or "odd," based on the number of ones (1s). In this case, there are three ones, which makes the state "odd."
+
+The parity disk's job is to keep track of this state. Since the state is odd, the parity disk records a 1.
+
+Now, imagine DISK2 fails and is no longer accessible. With DISK2 gone, we only have two ones left (from DISK3 and DISK4), making the state "even." This is opposite to what our parity disk says (which is odd). This discrepancy helps us understand that something has gone wrong, specifically that a disk has failed.
+
+When we replace the failed disk with a new one, we need to restore its data. The system knows that the overall state must be "odd" (as the parity disk indicates). So, it writes a 1 to the new disk, restoring the odd state.
+
+This example is very simplified. In reality, the data is saved in many small sections, called sectors, across all the disks, including the parity disk. This means the parity disk tracks the state of each sector across all other disks. As a result, if any single disk fails, the system can use the information on the parity disk to rebuild the lost data.
+
+This method allows an Unraid system to survive the failure of one disk without losing any data. It's a clever way to provide data security, but it's important to note that this only protects against a single disk failure at a time.
 
 ## Docker (Container)
 
