@@ -44,50 +44,30 @@ This method allows an Unraid system to survive the failure of one disk without l
 
 ## Docker (Container)
 
-I rely heavily on containerization, and the build in system with "apps" on unraid is nearly perfect for a homelab setup, just in case I can fire up a Portainer container if I need more control, but for most of the time the build-in system is superb.
+I rely heavily on containerization, and the built-in "apps" system on Unraid is nearly perfect for a homelab setup. Just in case I need more control, I can fire up a Portainer container, but most of the time, the built-in system is superb.
 
-I do not want to annoy you with details, if you have questions what services I run, please get in touch with me. I can explain it further, but it would be to much for this post. Quick and dirty? Agree?
+I don't want to overload you with details, but if you have questions about the services I run, feel free to get in touch. I can explain more, but that would be too much for this post. Here's a quick rundown:
 
-- Adminer  
-Used as PHPMySQL Admin replacement, more lightweight. A My/MariaDB database frontend.
-- Authelia  
-To protect my pages with an additional layer of security.
-- Code-Server
-Yes vscode in your browser and access to my docker containers, which makes it super convinient to change stuff on the persistant drives.
-- Duplicati
-Additional layer of protection for the most important data on the machine. A backup system basically.
-- Gitea  
-As GitLab replacement. GitLab is far to bloated for my personal use. And gitea fits right in.
-- glances
-System monitoring which can be used via API on other systems. Pretty neat. But mostly stopped, consumes a lot of CPU time. Apart from that - great tool
-- Grafana/InfluxDB/Telegraf  
-Classical TIG stack which I hosted formally on Hetzner, but 60€/month for just a TIG stack which I cannot use right now is a lot. Therefore I try now to replicate this in my homelab.
-- hetzner-ddns
-Updates Hetzner DNS via API. A classical dynamic DNS setup. I am now able to use a subdomain and letsencrypt to secure services with a TLS certificate.
-- HomeAssistant
-The new guy in the block, I replaced OpenHab3 with HomeAssistant for all IoT stuff. I just wanted to give it a test and I would never look back to OpenHab3, which I used for 5 years+. It's that good!
-- homepage
-A dashboard for my services. which can display additional information. Tried others, this one is ok. Homarr was ok, but more focuses on the .arr systems.
-- Jellyfin
-Our media vault. I really like to have a similar looking thing like Prime Video or Netflix at home. Takes time to update your data, but it's worth doing it.
-- mariadb
-Well, you need some database system in the end, I have some old blogs around, which I want to spool up again, if I ever find the time again for them.
-- minecraft
-Yes I moved my minecraft server from Hetzner to my local system. I am the only one playing - it's not a public server.
-- Mosquitto
-MQTT broker a lightweight, publish and subscribe, m2m (machine2machine) protocol for message queue/message queuing service. Used mostly for IoT projects.
-- netdata
-A beast of a surviliance system for you homelab. So much data, with filters and a nice GUI. Seriously just have it, you can fire it up if you need it - but this collector holds a hell of a ton more than glances. Again CPU times will go up. Live monitoring is always CPU intensive.
-- NGINX Proxy Manager (NPM)
-Reverse Proxy for more security on my projects which might be exposed to the public internet. Together with authelia quite handy. NPM takes care of all the certificates via Let'S Encrypt and if you'd figured out how to set it up - it's pure bliss.
-- Node-Red  
-Javascript in a GUI. NOCode. If you need some data from somewhere, or create an automation for you home - this! Nothing else!
-- Pi-Hole
-Well of course we block adds and everything which might just eats up our bandwith for this idiotic industry.
-- Portainer  
-Managing Docker/DockerCompose in a GUI. Not much need anymore for it, but I used it for years and still in my work. 
-- TinyMediaManager  
-Tagging you media files made easy. This program was the reason to try Jellyfin and I would never miss it.
+- **Adminer:** Used as a PHPMyAdmin replacement, it's more lightweight. Essentially, it's a My/MariaDB database frontend.
+- **Authelia:** Adds an additional layer of security to my pages.
+- **Code-Server:** Yes, it's Visual Studio Code in your browser, with access to my Docker containers, making it super convenient to change things on the persistent drives.
+- **Duplicati:** An additional layer of protection for the most important data on the machine; basically a backup system.
+- **Gitea:** Used as a GitLab replacement. GitLab is far too bloated for my personal use, whereas Gitea fits perfectly.
+- **Glances:** For system monitoring, usable via API on other systems. Quite neat, though I mostly keep it stopped as it consumes a lot of CPU. Apart from that, it's a great tool.
+- **Grafana/InfluxDB/Telegraf:** A classic TIG stack which I formerly hosted on Hetzner. However, paying 60€/month just for a TIG stack I'm not currently using is a lot, so I'm trying to replicate this in my homelab.
+- **Hetzner-ddns:** Updates Hetzner DNS via API for a classic dynamic DNS setup. Now, I can use a subdomain and Let's Encrypt to secure services with a TLS certificate.
+- **HomeAssistant:** The new addition, replacing OpenHab3 for all IoT stuff. I gave it a test run and would never go back to OpenHab3, which I used for over 5 years. It's that good!
+- **Homepage:** A dashboard for my services, displaying additional information. I've tried others; this one is okay. Homarr was good but more focused on the .arr systems.
+- **Jellyfin:** Our media vault. I enjoy having a home setup similar to Prime Video or Netflix. Updating data takes time, but it's worth it.
+- **MariaDB:** A necessary database system. I have some old blogs I want to revive when I find the time.
+- **Minecraft:** I moved my Minecraft server from Hetzner to my local system. It's not a public server; I'm the only player.
+- **Mosquitto MQTT Broker:** A lightweight publish-subscribe, machine-to-machine protocol for messaging. Mainly used for IoT projects.
+- **Netdata:** A powerful surveillance system for your homelab. It offers extensive data, filters, and a nice GUI. Live monitoring is CPU intensive, but the data collected is significantly more than what Glances offers.
+- **NGINX Proxy Manager (NPM):** A reverse proxy for added security on my projects exposed to the public internet. Paired with Authelia, it's quite handy. NPM manages all certificates via Let's Encrypt and is a bliss once set up.
+- **Node-Red:** JavaScript in a GUI. If you need data from somewhere or want to create home automations, this is the tool to use.
+- **Pi-Hole:** Of course, we block ads and anything that consumes bandwidth unnecessarily.
+- **Portainer:** Manages Docker/DockerCompose in a GUI. I've used it for years and still do in my work.
+- **TinyMediaManager:** Makes tagging media files easy. This program was the reason I tried Jellyfin, and I wouldn't want to be without it.
 
 ## Virtualization
 
