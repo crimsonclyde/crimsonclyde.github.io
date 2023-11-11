@@ -8,10 +8,9 @@ You know the specs already from my last post [Project Anubis](https://clyde.crim
 
 I try to give you the idea behind it, without (most) of the usual technic tourette.
 
+![Unraid Dashboard](/assets/pix/Anubis_Unraid_Dashboard.png)
 
-![Unraid Dashboard](../assets/pix/Anubis_Unraid_Dashboard.png)
-
-## The Array 
+## The Array
 
 We have 4 harddisk drives, each 5TB in size.  
 These are in an array means we can count them without any loss to a total of 20TB to our disposal.
@@ -62,7 +61,7 @@ System monitoring which can be used via API on other systems. Pretty neat. But m
 Classical TIG stack which I hosted formally on Hetzner, but 60€/month for just a TIG stack which I cannot use right now is a lot. Therefore I try now to replicate this in my homelab.
 - hetzner-ddns
 Updates Hetzner DNS via API. A classical dynamic DNS setup. I am now able to use a subdomain and letsencrypt to secure services with a TLS certificate.
-- HomeAssistant 
+- HomeAssistant
 The new guy in the block, I replaced OpenHab3 with HomeAssistant for all IoT stuff. I just wanted to give it a test and I would never look back to OpenHab3, which I used for 5 years+. It's that good!
 - homepage
 A dashboard for my services. which can display additional information. Tried others, this one is ok. Homarr was ok, but more focuses on the .arr systems.
@@ -71,7 +70,7 @@ Our media vault. I really like to have a similar looking thing like Prime Video 
 - mariadb
 Well, you need some database system in the end, I have some old blogs around, which I want to spool up again, if I ever find the time again for them.
 - minecraft
-Yes I moved my minecraft server from Hetzner to my local system. I am the only one playing - it's not a public server. 
+Yes I moved my minecraft server from Hetzner to my local system. I am the only one playing - it's not a public server.
 - Mosquitto
 MQTT broker a lightweight, publish and subscribe, m2m (machine2machine) protocol for message queue/message queuing service. Used mostly for IoT projects.
 - netdata
@@ -100,7 +99,7 @@ Right now that's a cheap Eaton USV Ellipse PRO 650 DIN. It is a battery and able
 
 [GetHomepage](https://gethomepage.dev)
 
-![Homepage](../assets/pix/Anubis_Homepage_Dashboard.png)
+![Homepage](/assets/pix/Anubis_Homepage_Dashboard.png)
 
 
 ## Price tag
