@@ -4,7 +4,17 @@ title: "I♥Tech: Anubis Presentation"
 categories: I♥Tech
 ---
 
-You know the specs already from my last post [Project Anubis](https://clyde.crimson.space/posts/project-anubis/). Here now more like an addon, more focused on the software. The OS running is [Unraid](https://unraid.net/). As the name already explains, no raid involved. Unraid builds an array out of disk you attach to it. It has, like raid, it's pro's and con's. Like all in life you need to build layers of security to protect whats precious.
+Welcome to the next chapter ([🕰️time heist to our chapter](https://clyde.crimson.space/posts/project-anubis/)) of our digital odyssey, Project Anubis, where we transcend traditional tech boundaries! 🌌 Dive deeper into our story at Project Anubis.
+
+🔐 Unleashing Unraid: Imagine a software universe where the shackles of conventional RAID are broken. Enter Unraid, the heart of Project Anubis. This isn't just an operating system; it's a liberator for your disks, bringing them together into a harmonious array without the rigid confines of standard RAID setups.
+
+🌟 The Unraid Advantage: Like a cosmic dance, Unraid elegantly orchestrates your disks, offering a unique blend of flexibility and resilience. Each disk retains its individuality, yet contributes to a larger, more robust digital cosmos. Yes, every technology has its yin and yang, its strengths and weaknesses. Unraid is no exception, but its adaptability is its superpower.
+
+🛡️ Layered Security: In the universe of Project Anubis, safeguarding our digital treasures is paramount. We believe in the power of layered security - a fortress not just built with bricks, but with wisdom and foresight. Unraid is our ally in this quest, providing a foundation upon which we build our bastions of digital protection.
+
+🌀 Beyond Technical Jargon: We're venturing beyond the black hole of technical Tourette's, into a realm where the essence of technology is woven into the narrative of Project Anubis. It's not just about specs and codes; it's about the story, the adventure, and the vision.
+
+Join us in this thrilling chapter of Project Anubis, where Unraid is not just a tool, but a gateway to new possibilities in the digital universe! 🌠
 
 I try to give you the idea behind it, without (most) of the usual technic tourette.
 
