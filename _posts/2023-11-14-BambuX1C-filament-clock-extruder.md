@@ -13,7 +13,7 @@ First fail - print not stuck to the build plate - spaghetti. OK, no show stopper
 
 Second fail two hours later - stuck again, this time the printhead continued printing but no filament was extruded for a bunch of layers. I tried to remove the filament but it was stuck, stuck so hard it took me quite a while to realize it must be stuck in the extruder.
 
-![Unraid Dashboard](/assets/pix/X1C_StuckFilament01.JPG)
+![Stuck Filament](/assets/pix/X1C_StuckFilament01.JPG)
 
 ## Fix
 
@@ -34,7 +34,7 @@ Put all the stuff back together - double check - run a self test.
 
 Be careful, this is no tutorial! Watch videos you can burn yourself, you can burn down the printer and even more. If you don't feel safe get some help from a professional!
 
-![Unraid Dashboard](/assets/pix/X1C_StuckFilament02.JPG)
+![Stuck Filament](/assets/pix/X1C_StuckFilament02.JPG)
 
 ## Conculsion
 
