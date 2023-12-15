@@ -18,11 +18,11 @@ The Takeaway for Fellow Tech Warriors:
 
 If you're in the trenches with a HP MicroServer Gen10, sporting an AMD Opteron™ X3421 and a Broadcom Network card, here's my hard-earned wisdom:
 
-    In Unraid, navigate to Settings -> Docker and change the Docker custom network type to 'ipvlan'.
-    Dive into the HP MicroServer BIOS and enable IOMMU.
+- In Unraid, navigate to Settings -> Docker and change the Docker custom network type to 'ipvlan'.
+- Dive into the HP MicroServer BIOS and enable IOMMU.
 
 Was the network type the root cause? Can't say for sure. But enabling IOMMU cleared a pesky GPU error at startup, proving that banishing errors, like vanquishing foes, is always a victory.
 
-So, here's to tech battles fiercely fought and smartly won. Part of ship, part of crew...
+So, here's to tech battles fiercely fought and smartly won. Part of ship, part of crew, yo-ho!
 
 [Unraid Thread](https://forums.unraid.net/topic/148825-hp-microserver-gen10-freezes)
