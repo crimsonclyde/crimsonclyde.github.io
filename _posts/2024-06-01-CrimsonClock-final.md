@@ -6,7 +6,7 @@ categories: I♥Craft
 
 Power stride and ready to ride!
 
-Final - finished and fixed version of [Techniccontroller`s Wordclock](https://techniccontroller.com/word-clock-with-wifi-and-neopixel/). 
+Final - finished and fixed version of [Techniccontroller`s Wordclock](https://techniccontroller.com/word-clock-with-wifi-and-neopixel/).
 
 I am very pleased with the results since I wanted this clock nearly forever since I saw it first somewhere in a Sauna years ago.
 
