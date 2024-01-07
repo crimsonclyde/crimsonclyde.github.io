@@ -19,5 +19,5 @@ Point Three: Doesn't look that bad in reality.
 
 Anyway, all in all, great project great talks with Edgar (from Techniccontroller) which helped me finding the right spot to [fix the code](https://github.com/techniccontroller/wordclock_esp8266/pull/22) in the end. Now the english version works perfectly. I can absolutly recommend this build. And once again open-source is often a great community where you get help and provide some if you can.
 
-![CrimsonClock - Final Version](/assets/pix/CrimsonClock_assembly.JPG)
+![CrimsonClock - Final Version](/assets/pix/CrimsonClock_assembly.JPG)\
 ![CrimsonClock - Final Version](/assets/pix/CrimsonClock_alpha.JPG)
