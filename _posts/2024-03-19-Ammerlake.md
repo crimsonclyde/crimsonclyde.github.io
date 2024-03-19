@@ -17,9 +17,9 @@ Mostly done in Track Mode and two times Turbo used (end of the track).
 
 All in all last hour was quite hard, My back started to hurt a lot, as well as the left hip. I would assume most of those issues are due to no training at all, and I took 2 breaks only during the track. None longer than 5 mins.
 
-![E-Bike 'n Cherry Blossoms](/assets/pix/Ammersee_CherryBlossom.JPEG)
+![E-Bike 'n Cherry Blossoms](/assets/pix/Ammersee_CherrryBlossom.JPEG)
 
-![Boat House on the lake in silver](/assets/pix/Ammersee_SilverHarborJPEG)
+![Boat House on the lake in silver](/assets/pix/Ammersee_SilverHarbor.JPEG)
 
 ![Log in water, lake and mountains](/assets/pix/Ammersee_Waterlog.JPEG)
 
