@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Out 'n about": ESC Barcelona"
+title: "ESC Barcelona"
 categories: "Out-n-about"
 ---
 
