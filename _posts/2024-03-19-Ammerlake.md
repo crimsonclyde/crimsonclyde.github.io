@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orbiting Ammer Lake"
-categories: "Out 'n about"
+categories: "Out-n-about"
 ---
 
 It's been a while but this season I def. plan to see some mountains again.  

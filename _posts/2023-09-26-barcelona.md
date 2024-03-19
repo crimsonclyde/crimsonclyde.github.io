@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""Out 'n about": ESC Barcelona"
-categories: "Out 'n about"
+categories: "Out-n-about"
 ---
 
 ## Exordium
