@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Leisure: ESC Barcelona"
-categories: Leisure
+title: ""Out 'n about": ESC Barcelona"
+categories: "Out 'n about"
 ---
 
 ## Exordium
