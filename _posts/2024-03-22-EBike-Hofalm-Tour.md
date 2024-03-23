@@ -23,4 +23,4 @@ There is an alternative, you can park in Frasdorf opposite of the Football space
 
 ![Lantern by the river](/assets/pix/2024_EBike_Hofalm-Lantern.JPG)
 
-![Mountain top](/assets/pix/2024_EBike_Hofalm-Mountain.JPG)
+![Mountain top](/assets/pix/2024_EBike_Hofalm-Mountain.PNG)
