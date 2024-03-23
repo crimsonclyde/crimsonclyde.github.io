@@ -17,7 +17,7 @@ There is an alternative, you can park in Frasdorf opposite of the Football space
 
 ![Path blocked by snow](/assets/pix/2024_EBike_Hofalm-Snow.JPG)
 
-![Panorama Image View Hochries 01](/assets/pix/2024_EBike_Hofalm-Pano01.JPG)
+![Panorama Image View Hochries 01](/assets/pix/2024_EBike_Hofalm-Pano01.JPEG)
 
 ![Panorama Image View Hochries 02](/assets/pix/2024_EBike_Hofalm-Pano02.JPG)
 

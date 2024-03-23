@@ -9,7 +9,7 @@ Since a couple of years I own a LotusGrill and the pain was always the batteries
 
 What you need is a USB Cable. Best one cable with already only + and - connected to the USB Plug. Soldering iron and a power bank. Conversation time 5 mins. Pro Tip: Secure the cable with (hot) glue.
 
-![Start](/assets/pix/2024_LotusGrillUSB-Connections.JPG)
+![Start](/assets/pix/2024_LotusGrillUSB-Connections.JPEG)
 
 ![Start](/assets/pix/2024_LotusGrillUSB.JPG)
 
