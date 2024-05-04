@@ -16,13 +16,12 @@ So, after a while, I decided I don't need anything from my big tower anymore. I 
 
 ## Rant (Linux)
 
-... and so, some fine day (today), I decided to give it a shot and reinstall the entire machine with Arch Linux and KDE Plasma 6 from scratch. Maybe Hyprland, who knows. I did a lot and tried a lot, read a lot, but faced problems and crap at every step I took. Every step forward was one back, you know the drill. WiFi is still in 2024 a big deal when it comes down to Linux. You can have luck or you end up in a mess. Sorry for those words, but it's just reality. Rearranging your pencil collection is much more meaningful than spending a quarter of the day trying to get WiFi or the display driver to run.
+... and so, some fine day (today), I decided to give it a shot and reinstall the entire machine with Arch Linux and KDE Plasma 6 from scratch. Maybe Hyprland, who knows. I did a lot and tried a lot, read a lot, but faced problems and crap at every step I took. Every step forward was one back, you know the drill. WiFi is still in 2024 a big deal when it comes down to Linux. You can have luck or you end up in a mess. Sorry for those words, but it's just reality. At one stage, there was a connection, but it stopped after 5 minutes. RTL8852BE—just don't choose this card. It's a mess. Was and still is. Even under Windows, you need the right drivers first.
 
-I tried the proprietary drivers and Nouveau. The proprietary one just didn't work at all. Black screen right after the greeter. Nouveau was able to start a desktop environment but then crashed hard when the machine went to sleep. People all over the place report just bad things when dealing with Nvidia drivers on Linux nowadays.
+Next on the list wasting precious life time - graphics. I tried the proprietary drivers and Nouveau. The proprietary one just didn't work at all. Black screen right after the greeter. Nouveau was able to start a desktop environment but then crashed hard when the machine went to sleep. People all over the place report just bad things when dealing with Nvidia drivers on Linux nowadays. You spend a hell lot of money on those cards and end up knee deep in hell.
 
-Worse than that, I was not able to get WiFi working properly. At one stage, there was a connection, but it stopped after 5 minutes. RTL8852BE—just don't choose this card. It's a mess. Was and still is. Even under Windows, you need the right drivers first.
-
-Conclusion—no Linux on my big machine. It will be Windows again, even if I don't like it. But I am fed up and don't want a machine that's so fragile it breaks on the next system update.
+Rearranging your pencil collection is much more meaningful than spending a quarter of the day trying to get WiFi or the display driver to run.
+Conclusion: No Linux on my big machine. It will be Windows again, even if I don't like it. I am just fed up and don't want a machine that's so fragile it breaks on the next system update.
 
 ## Rant (Windows)
 
