@@ -22,7 +22,7 @@ Stay tuned, folks, because this corner is about to become a showstopper worthy o
 
 ## Impressions
 
-![3D printed parts](BathBay_01_printedparts.JPG)  
-![Partley assembled](BathBay_02_partleyassembled.JPEG)  
-![Fully assembled](BathBay_03_fullassembled.JPG)  
-![Fully assembled and WLED added](BathBay_04_fullassembledwithWLED.JPEG)
+![3D printed parts](/assets/pix/BathBay_01_printedparts.JPG)  
+![Partley assembled](/assets/pix/BathBay_02_partleyassembled.JPEG)  
+![Fully assembled](/assets/pix/BathBay_03_fullassembled.JPG)  
+![Fully assembled and WLED added](/assets/pix/BathBay_04_fullassembledwithWLED.JPEG)
