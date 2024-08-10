@@ -7,10 +7,10 @@ categories: "I♥Craft"
 # Exordium
 
 Ever wanted to try your own Mate brew?  
-Well, it's about time. Another DIY project I [saw recently online(https://youtu.be/9uBnJAEiDug?si=RQA-mN4EIRu-Nola)].  
+Well, it's about time. Another DIY project I [saw recently online](https://youtu.be/9uBnJAEiDug?si=RQA-mN4EIRu-Nola).  
 So, why not give it a shot?
 
-The time is right to the spot, [Håck ma's castle!(https://hack-mas.at/) is close, and the Team23 is in need of more Mate.
+The time is right to the spot, [Håck ma's castle!](https://hack-mas.at) is close, and the Team23 is in need of more Mate.
 
 ## Ingredients
 
