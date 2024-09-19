@@ -8,4 +8,4 @@ categories: "ESC"
 Trip to Scotland, no comments, only pix.
 
 # Day 1
-![Sunset Suzy](/assets/pix/ESC_SCOTLAND_D1.jpg)
+![Sunset Suzy](/assets/pix/ESC_SCOTLAND_D1.jpg.JPG)
