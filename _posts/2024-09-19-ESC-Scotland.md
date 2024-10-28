@@ -6,18 +6,15 @@ categories: "ESC"
 
 # Exordium
 Trip to Scotland, no comments, only pix.
+Henceforth let their be beers! Cheers m8s!
 
 # Day 1
-Still on our way.
-
 ![Sunset Suzy](/assets/pix/20240919.JPEG)
 
 # Day 2
-Amsterdam Central
 ![Mannen Liefde](/assets/pix/20240920.JPEG)
 
 # Day 3
-Amsterdam Central
 ![De blonde barbier](/assets/pix/20240921.JPEG)
 
 # Day 3
