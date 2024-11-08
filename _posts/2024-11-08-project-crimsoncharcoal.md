@@ -21,23 +21,23 @@ You could call this project "Not Another River Table, Please." I’m not aiming 
 Wood comes with a pretty hefty price tag these days. But more importantly, I’m not willing to harm the planet by using rainforest wood or fancy driftwood. Cheap materials are fine by me—my inner rebel insists. I’m terrified, but no pain, no gain. And, with the help of Mark Watney, we’re going to pull it off. More precicly in his words: "I'm gonna have to science the shit out of this." So, I'll start with a test setup, hours of videos, and blogs—you name it.
 
 
-![Sketch on wood](/assets/pix/CrimsonCharcoal_01.JPG)  
+![Sketch on wood](/assets/pix/CrimsonCharcoal_01.JPEG)  
 
-![Wood cut and prepared](/assets/pix/CrimsonCharcoal_02.JPG)  
+![Wood cut and prepared](/assets/pix/CrimsonCharcoal_02.JPEG)  
 
 - Jigsaw to cut along the traces
 - Mill with some cutting tools prepare rougher edges
 - Grinding machine for smoothing
 
-![Burned wood](/assets/pix/CrimsonCharcoal_03.JPG)  
+![Burned wood](/assets/pix/CrimsonCharcoal_03.JPEG)  
 
 - Gas burner
 
-![Setup with mold prep](/assets/pix/CrimsonCharcoal_04.JPG)  
+![Setup with mold prep](/assets/pix/CrimsonCharcoal_04.JPEG)  
 
 - Rotary blade cutter for the roughly cuttings walls to retain the resin
 
-![Let their be light](/assets/pix/CrimsonCharcoal_05.JPG)
+![Let their be light](/assets/pix/CrimsonCharcoal_05.JPEG)
 
 - Standard WS2812b LEDs cut and re-soldered toghether again
 - Test WLED System 
