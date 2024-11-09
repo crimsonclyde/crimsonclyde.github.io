@@ -18,12 +18,15 @@ Always getting discconnects and running `dmesg | grep iwlwifi` like
 [  437.552750] iwlwifi 0000:3a:00.0: Microcode SW error detected.  Restarting 0x2000000.
 ```
 
-Yes, well this post holds some clues, but there is more
+Yes, well this post holds some clues, but there is more!
 
-### Probs that you cannot login with an attached monitor to your KDE Plasma6 with Breeze Theme?
+### Unable to login (SDDM)
 
-You try to login but nothing happens?
-There is a bug in Breeze or in the garbage collector. Discussion is still ongoing.
+You try to login but nothing happens?  
+You enter your password and then nothing happens, screen freezes and that's it?  
+Well, trust me you are not alone, and that not Lenovo T470s only that seems to affect a lot of people out there.
+
+Seems it is a bug in Breeze or in the garbage collector. Discussion is still ongoing.  
 Jump keep on reading.
 
 ## Workarouns
@@ -50,17 +53,31 @@ Try:
     # Reboot your system
     ```
 
-I am darn sure its one of the options, but I haven't sorted it out entirely. This is just for to give you the full picture what I have done.
+I am darn sure its one of the options, but I haven't sorted it out entirely.  
+This should present you the full picture.
 
 ### SDDM
 
-Well, easy, just use another theme
+Well, easy, just use another theme:
 
 - Settings -> Colors & Themes -> Login Screen (SDDM)
 - Change to another theme which is not Breeze
 
-There is an ogoing discussion and loads of ppl running into this problem currently. Fix is possible.
-If you cannot login login with ALT+CTRL +F4 or F5 or just another TTY
 
-- `sudo nano /etc/sddm.conf.d/kde_settings.conf`
+#### Login primary screen
+
+You should be able to login with your primary screen, if it is a laptop, just disconnect all screens and try to use the laptops main screen to login.
+
+#### Cannot login on any screen
+
+If you still cannot login:
+
+
+- Switch to another TTY session (text) 
+  CTRL+ALT and some Fx key > 2
+- Login with your user and pass
+- Open SDDM config
+  `sudo nano /etc/sddm.conf.d/kde_settings.conf`
 - Remove the line "Current=Breeze"
+- Restart SDDM
+  `sudo systemctl restart sddm.service`
